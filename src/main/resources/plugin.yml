@@ -1,0 +1,6 @@
+main: Main
+name: Empty-Maven-Plugin-Hook
+version: 1.0
+load: STARTUP
+api-version: 1.16
+description: "Empty maven plugin"

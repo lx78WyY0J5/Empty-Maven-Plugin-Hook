@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Empty-Maven-Plugin-Hook:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Empty_Maven_Plugin_Hook_jar</output-path>
+    <root id="archive" name="Empty-Maven-Plugin-Hook.jar">
+      <element id="module-output" name="Empty-Maven-Plugin-Hook" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Empty-Maven-Plugin/out/artifacts/Empty_Maven_Plugin_jar/Empty-Maven-Plugin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
