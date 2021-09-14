@@ -16,7 +16,7 @@ public class Main extends JavaPlugin
     @Override
     public void onEnable(){
         logger.info("Plugin Enabled");
-Hook.test();
+        Hook.test();
     }
 
     @Override
