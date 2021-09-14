@@ -1,2 +1,1 @@
 # Empty-Maven-Plugin-Hook
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4a96af4037814f0a92955e9334c8a5f3)](https://app.codacy.com/gh/lx78WyY0J5/Empty-Maven-Plugin-Hook?utm_source=github.com&utm_medium=referral&utm_content=lx78WyY0J5/Empty-Maven-Plugin-Hook&utm_campaign=Badge_Grade_Settings)
