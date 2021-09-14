@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Empty-Maven-Plugin-ToHook">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Empty-Maven-Plugin-ToHook/out/artifacts/Empty_Maven_Plugin_ToHook_jar/Empty-Maven-Plugin-ToHook.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

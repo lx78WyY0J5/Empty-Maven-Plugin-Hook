@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Empty-Maven-Plugin">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Empty-Maven-Plugin/out/artifacts/Empty_Maven_Plugin_jar/Empty-Maven-Plugin.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
